@@ -1,0 +1,22 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1","layer","Layer: top",,"CE",,"CE","","","","","","","","above","2",false,false
+"2","layer","Post pipe: fill",,"CE",,"CE","","","","","","","","above","19",false,false
+"19","layer","Post pipe",,"CE",,"CE","","","","","","","","above","18",false,false
+"3","layer","Posthole",,"CE",,"CE","","","","","","","","above","4",false,false
+"4","layer","Layer",,"CE",,"CE","","","","","","","","above","5",false,false
+"4","layer","Layer",,"CE",,"CE","","","","","","","","above","6",false,false
+"5","layer","Post hole: fill",,"CE",,"CE","","","","","","","","above","7",false,false
+"6","layer","Post hole: fill",,"CE",,"CE","","","","","","","","above","8",false,false
+"7","layer","Post hole",,"CE",,"CE","","","","","","","","above","9",false,false
+"8","layer","Post hole",,"CE",,"CE","","","","","","","",,,false,
+"9","layer","Layer: accumulation",,"CE",,"CE","","","","","","","","above","10",false,false
+"10","layer","Pit: fill",,"CE",,"CE","","","","","","","","above","11",false,false
+"11","layer","Pit: fill",,"CE",,"CE","","","","","","","","above","12",false,false
+"12","layer","Pit: fill",,"CE",,"CE","","","","","","","","above","13",false,false
+"13","layer","Pit: fill",,"CE",,"CE","","","","","","","","above","14",false,false
+"14","layer","Pit",,"CE",,"CE","","","","","","","","above","15",false,false
+"14","layer","Pit",,"CE",,"CE","","","","","","","","above","16",false,false
+"15","layer","Layer",,"CE",,"CE","","","","","","","","above","17",false,false
+"16","layer","Layer",,"CE",,"CE","","","","","","","","above","17",false,false
+"17","layer","Layer: natural",,"CE",,"CE","","","","","","","",,,false,
+"18","layer","Posthole: packing",,"CE",,"CE","","","","","","","","above","3",false,false

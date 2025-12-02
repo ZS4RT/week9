@@ -1,0 +1,16 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1","layer","pink layer with 1910 coin",,"CE",,"CE","","","","","","","","above","7",false,false
+"2","structure","brown wall",,"CE",,"CE","","","","","","","","above","12",false,false
+"3","fill","yellow packing around wall",,"CE",,"CE","","","","","","","","above","12",false,false
+"4","layer","pink layer right side",,"CE",,"CE","","","","","","","","above","10",false,false
+"5","cut","cut for wall (sloping)",,"CE",,"CE","","","","","","","","cuts","1",false,false
+"5","cut","cut for wall (sloping)",,"CE",,"CE","","","","","","","","cuts","4",false,false
+"6","layer","top floor on right",,"CE",,"CE","","","","","","","","above","4",false,false
+"7","fill","green fill in left pit",,"CE",,"CE","","","","","","","","above","9",false,true
+"7","fill","green fill in left pit",,"CE",,"CE","","","","","","","","fill_of","8",false,false
+"8","cut","left pit cut",,"CE",,"CE","","","","","","","","cuts","9",false,false
+"9","layer","white layer under 7",,"CE",,"CE","","","","","","","","above","11",false,false
+"10","layer","white layer under 4",,"CE",,"CE","","","","","","","","above","11",false,false
+"11","layer","bottom natural with nails",,"CE",,"CE","","","","","","","",,,false,
+"12","structure","purple foundation under wall",,"CE",,"CE","","","","","","","","above","11",false,true
+"12","structure","purple foundation under wall",,"CE",,"CE","","","","","","","","above","5",false,false

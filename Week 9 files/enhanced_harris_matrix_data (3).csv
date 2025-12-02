@@ -1,0 +1,14 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1","layer","Natural subsoil (earliest ground surface)",,"CE",,"CE","","","","","","","",,,false,
+"2","layer","Basal stone alignment / foundation sitting on natural",,"CE",,"CE","","","","","","","","above","1",false,false
+"3","layer","Lower deep pit and rubble fill cutting into natural (simplified as one context)",,"CE",,"CE","","","","","","","","above","1",false,false
+"4","layer","Basal soil / gravel layer over lower pit",,"CE",,"CE","","","","","","","","above","2",false,false
+"4","layer","Basal soil / gravel layer over lower pit",,"CE",,"CE","","","","","","","","above","3",false,false
+"5","layer","Large middle scoop-shaped pit and fill with boulder",,"CE",,"CE","","","","","","","","above","4",false,false
+"6","layer","Mid-level posthole (cut and fill) from same horizon as big pit",,"CE",,"CE","","","","","","","","above","4",false,false
+"7","layer","Pebbly occupation layer sealing posthole",,"CE",,"CE","","","","","","","","above","5",false,false
+"7","layer","Pebbly occupation layer sealing posthole",,"CE",,"CE","","","","","","","","above","6",false,false
+"8","layer","Brick / stone wall or feature built from upper surface",,"CE",,"CE","","","","","","","","above","7",false,false
+"9","layer","Shallow pit with vase near the surface",,"CE",,"CE","","","","","","","","above","7",false,false
+"10","layer","Modern topsoil / grass surface",,"CE",,"CE","","","","","","","","above","8",false,false
+"10","layer","Modern topsoil / grass surface",,"CE",,"CE","","","","","","","","above","9",false,false
